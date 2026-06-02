@@ -1,4 +1,4 @@
-![slidemd banner](./slidemd-thumbnail.png)
+![slidemd banner](./other/slidemd-thumbnail.png)
 
 # slidemd
 
