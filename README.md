@@ -1,4 +1,4 @@
-# deckprompts
+# slidemd
 
 A set of markdown prompt files that turn Claude into a premium presentation builder. Drop them into a Claude skill and get a full design interview → outline → image generation → `.pptx` output pipeline.
 
